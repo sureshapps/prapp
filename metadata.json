@@ -1,0 +1,6 @@
+{
+  "name": "Neumorphic Portfolio Website",
+  "description": "An interactive, tactile personal portfolio website styled with soft UI Neumorphism, complete with interactive widgets, tactile audio feedback, and a server-side Gemini AI Recruiter Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
